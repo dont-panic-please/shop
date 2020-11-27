@@ -1,0 +1,95 @@
+body {
+    margin-top: 0;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 0;
+    background-color: #fdf6dd;
+}
+
+p {
+    font: 1.3em Georgia;
+    text-decoration: none;
+    margin: 0 0 0;
+    padding-left: 100px;
+    padding-right: 150px;
+    padding-bottom: 20px;
+    text-align: justify;
+    text-indent: 1em;
+}
+
+blockquote {
+    margin: 0 0 0;
+    padding-bottom: 50px;
+}
+cite {
+    font-size: 1.3em;
+    padding-left: 100px;
+}
+
+h1 {
+    margin: 0 0 0;
+    font: 2em Verdana;
+    padding: 20px;
+}
+
+
+header {
+    padding: 20px 20px;
+    background-color: #343434;
+}
+
+nav a {
+    font: 1.3em Georgia;
+    text-decoration: none;
+    margin-left: 50px;
+    color: white;
+}
+
+section {
+    margin: 0 0 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #ffce64;
+    color: #343434;
+}
+
+footer {
+    margin: 0 0 0;
+    padding: 20px 0 20px;
+    background-color:  #343434;
+    text-align: right;
+}
+
+footer a {
+    padding-right: 20px;
+    color: white;
+}
+
+.logo {
+    margin-right: 50px;
+    width: 100px;
+}
+
+.front-page {
+    margin: 0 0 0;
+    padding: 0 0 0;
+    width: 100%;
+}
+
+.product, .feed{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+    font: 1em Helvetica italic;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #fdf6dd;
+    border-radius: 30px;
+    border-width: 4px;
+    border-color: #343434;
+}
+
+.feed p {
+    padding-left: 60px;
+    padding-right: 20px;
+}
